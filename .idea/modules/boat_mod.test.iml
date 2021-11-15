@@ -13,7 +13,7 @@
   </component>
   <component name="McpModuleSettings">
     <option name="mappingFile" value="C:\Users\emdem\Desktop\boat_mod\build\createMcpToSrg\output.tsrg" />
-    <option name="mcpVersion" value="official_1.16.5" />
+    <option name="mcpVersion" value="parchment_2021.10.17-1.16.5" />
     <option name="minecraftVersion" value="1.16.5" />
     <option name="srgType" value="TSRG" />
   </component>
